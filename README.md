@@ -32,7 +32,7 @@ Adicione os 3 secrets abaixo:
 
 | Nome            | Valor                                      |
 |-----------------|--------------------------------------------|
-| `GMAIL_USER`    | seu email Gmail (ex: maicon@gmail.com)     |
+| `GMAIL_USER`    | seu email Gmail (ex: xxx@gmail.com)     |
 | `GMAIL_PASS`    | a App Password de 16 dígitos               |
 | `NOTIFY_EMAIL`  | email que vai receber os alertas           |
 
