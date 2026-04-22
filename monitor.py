@@ -16,16 +16,15 @@ TARGET_URL = "https://www.saosilvestre.com.br"
 
 # Palavras que indicam inscrição ABERTA
 KEYWORDS_OPEN = [
-    "inscreva-se",
     "inscrição aberta",
     "inscricao aberta",
+    "inscrições abertas",
+    "inscricoes abertas",
     "faça sua inscrição",
-    "faca sua inscricao",
+    "garanta sua vaga",
     "comprar ingresso",
-    "garantir vaga",
-    "registre-se",
-    "sign up",
-    "register now",
+    "inscreva-se agora",
+    "vagas disponíveis",
 ]
 
 # Palavras que confirmam que ainda está FECHADO
